@@ -1,6 +1,6 @@
 # curso_Git_e_github
-Primeiro repositorio do curso de Git e Github
+Primeiro repositorio do curso de **Git e Github*8
 
-Repositorio criado durante uma aula ao vivo!
+*Repositorio criado durante uma aula ao vivo!*
 
-Essa linha eu adicionei diretamente no site! que impressionante. 
+
